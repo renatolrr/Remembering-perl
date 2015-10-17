@@ -1,6 +1,7 @@
 #!/usr/bin/env perl
 use strict;
 use warnings;
+use diagnostics;
 
 print "CPAN http://www.cpan.org", "\n"; 
 print "CPAN.pm", "\n"; 
